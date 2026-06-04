@@ -1,5 +1,28 @@
-# LeetCode-solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# LeetCode Solutions
+
+A curated collection of my LeetCode solutions implemented in Java.
+
+## About
+This repository showcases my approach to solving algorithmic and data structure problems, with a focus on writing efficient, clean, and maintainable code.
+
+## Topics Covered
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Binary Search
+- Hashing
+- Recursion
+
+## Tech Stack
+- Java
+- Data Structures & Algorithms
+
+## Progress
+Solutions are automatically synced from LeetCode using LeetHub.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
