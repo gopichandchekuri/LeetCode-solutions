@@ -21,8 +21,6 @@ This repository showcases my approach to solving algorithmic and data structure 
 - Java
 - Data Structures & Algorithms
 
-## Progress
-Solutions are automatically synced from LeetCode using LeetHub.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
