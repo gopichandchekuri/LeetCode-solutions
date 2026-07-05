@@ -31,6 +31,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0036-valid-sudoku](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -93,4 +94,9 @@ This repository showcases my approach to solving algorithmic and data structure 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
