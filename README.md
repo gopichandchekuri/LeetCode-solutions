@@ -33,6 +33,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0036-valid-sudoku](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -110,6 +111,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
