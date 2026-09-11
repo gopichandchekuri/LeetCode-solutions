@@ -30,6 +30,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0001-two-sum](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -96,10 +97,23 @@ This repository showcases my approach to solving algorithmic and data structure 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
