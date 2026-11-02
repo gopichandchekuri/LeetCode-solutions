@@ -49,6 +49,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0217-contains-duplicate](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0049-group-anagrams](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +126,8 @@ This repository showcases my approach to solving algorithmic and data structure 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
