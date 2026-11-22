@@ -33,6 +33,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0036-valid-sudoku](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -100,6 +101,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
