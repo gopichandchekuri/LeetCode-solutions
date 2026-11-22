@@ -72,6 +72,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0242-valid-anagram](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
