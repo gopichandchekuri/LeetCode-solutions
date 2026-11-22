@@ -40,6 +40,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | [0238-product-of-array-except-self](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ This repository showcases my approach to solving algorithmic and data structure 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/gopichandchekuri/LeetCode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
